@@ -1,0 +1,9 @@
+streamlit==1.41.1
+requests
+gTTS
+streamlit-chat
+langchain==0.3.14
+langchain-google-genai
+python-dotenv==1.0.0
+pyttsx3==2.90
+SpeechRecognition==3.10.0
